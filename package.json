@@ -12,8 +12,7 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "framer-motion": "^11.0.0",
-    "@": "latest",
-    "@/components": "latest",
+    "@": "latest"
     "@/lib": "latest",
     "@supabase/supabase-js": "^2.52.0"
   },
